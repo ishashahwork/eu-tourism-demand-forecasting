@@ -1,0 +1,13 @@
+# Local operating system and editor files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local assignment instructions, not part of the portfolio deliverables
+Guidelines Project 1.pdf
